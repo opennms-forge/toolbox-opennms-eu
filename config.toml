@@ -1,16 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://toolbox.opennms.eu"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "OpenNMS Toolbox"
 theme = "slate"
 
 [ params ]
-BackgroundImages = [
-  "bg/b1920-000.jpg",
-  "bg/b1920-001.jpg",
-  "bg/b1920-002.jpg",
-  "bg/b1920-003.jpg",
-  "bg/b1920-004.jpg"
-]
 BackgroundStyle = "#000000;"
 OpenLinksInNewWindow = true
 Favicon = "favicon.ico"
