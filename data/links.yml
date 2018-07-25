@@ -1,30 +1,35 @@
 tiles:
--
-  name: 'Documentation'
+- name: 'Documentation'
   url: 'https://docs.opennms.org'
   txt_color: '#ffffff'
   bg_color: '#ffb900'
   tags: ['favorite', 'docs']
--
-  name: 'Wiki'
+
+- name: 'Wiki'
   url: 'https://wiki.opennms.org'
   bg_color: '#ffffff'
   txt_color: '#ff9900'
   tags: ['favorite', 'docs']
--
-  name: 'Chat'
+
+- name: 'Chat'
   url: 'https://chat.opennms.org'
   bg_color: '#191414'
   txt_color: '#1db954'
   tags: ['favorite', 'communication']
--
-  name: 'Thread Analyzer'
+
+- name: 'Spotify Thread Analyzer'
   url: 'https://td.opennms.eu'
   bg_color: '#ffffff'
   txt_color: '#ff5722'
   tags: ['tools']
--
-  name: 'Hastebin'
+
+- name: 'fastThread Thread Analyzer'
+  url: 'http://fastthread.io'
+  bg_color: '#ffffff'
+  txt_color: '#ff5722'
+  tags: ['tools']
+
+- name: 'Hastebin'
   url: 'https://hastebin.com'
   bg_color: '#005483'
   txt_color: '#ffffff'
