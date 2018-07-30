@@ -35,6 +35,12 @@ tiles:
   txt_color: '#ffffff'
   tags: ['tools', 'paste']
 
+- name: 'Hastebin OpenNMS EU'
+  url: 'https://paste.opennms.eu'
+  bg_color: '#005483'
+  txt_color: '#ffffff'
+  tags: ['tools', 'paste']
+
 - name: 'https://paste.ee'
   url: 'https://paste.ee'
   tags: ['tools', 'paste']
