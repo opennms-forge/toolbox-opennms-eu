@@ -29,6 +29,18 @@ tiles:
   txt_color: '#ff5722'
   tags: ['tools']
 
+- name: 'Java Diagnostic tool'
+  url: 'https://alibaba.github.io/arthas/en/'
+  bg_color: '#ffffff'
+  txt_color: '#ff5722'
+  tags: ['tools']
+
+- name: 'Swiss Java Knife (SJK)'
+  url: 'https://github.com/aragozin/jvm-tools'
+  bg_color: '#ffffff'
+  txt_color: '#ff5722'
+  tags: ['tools']
+
 - name: 'Hastebin'
   url: 'https://hastebin.com'
   bg_color: '#005483'
