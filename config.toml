@@ -25,6 +25,11 @@ tag = "docs"
 icon = "book"
 
 [[ params.nav ]]
+name = "communication"
+tag = "communication"
+icon = "comments"
+
+[[ params.nav ]]
 name = "Paste"
 tag = "paste"
 icon = "share"
