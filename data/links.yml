@@ -60,3 +60,9 @@ tiles:
 - name: 'Gist'
   url: 'https://gist.github.com'
   tags: ['tools', 'paste']
+
+- name: 'OpenNMS 101 on YouTube'
+  url: 'https://www.youtube.com/playlist?list=PLsXgBGH3nG7iZSlssmZB3xWsAJlst2j2z'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['docs']
