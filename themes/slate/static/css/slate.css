@@ -3080,18 +3080,18 @@ body {
 }
 
 .nav-panel {
-    background: rgba(0, 0, 0, .1);
+    background: rgba(0, 0, 0, .3);
     height: 100%;
     position: fixed;
     left: 0;
     top: 0;
     transition: all .8s ease-in-out;
-    transition-delay: 1s;
+    transition-delay: .25s;
     width: 50px
 }
 
 .nav-panel:hover {
-    background: rgba(0, 0, 0, .5);
+    background: rgba(0, 0, 0, .7);
     transition: background .5s ease-in-out
 }
 

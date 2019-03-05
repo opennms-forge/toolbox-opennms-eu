@@ -18,7 +18,7 @@ BackgroundImages = [
   "bg/ulf-view-06.jpg",
   "bg/ulf-with-toys.jpg"
 ]
-BackgroundStyle = "#000000;"
+BackgroundStyle = "#ffffff;"
 OpenLinksInNewWindow = true
 Favicon = "favicon.ico"
 
