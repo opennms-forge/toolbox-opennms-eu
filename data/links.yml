@@ -16,6 +16,12 @@ tiles:
   bg_color: '#191414'
   txt_color: '#1db954'
   tags: ['favorite', 'communication']
+  
+- name: 'Discourse'
+  url: 'https://opennms.discourse.group/'
+  bg_color: '#191414'
+  txt_color: '#1db954'
+  tags: ['favorite', 'communication']
 
 - name: 'Spotify Thread Analyzer'
   url: 'https://td.opennms.eu'
