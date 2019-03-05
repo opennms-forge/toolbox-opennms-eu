@@ -4,7 +4,21 @@ title = "OpenNMS Toolbox"
 theme = "slate"
 
 [ params ]
-BackgroundStyle = "#000000;"
+BackgroundImages = [
+  "bg/desert.jpg",
+  "bg/ulf-airport.jpg",
+  "bg/ulf-berlin.jpg",
+  "bg/ulf-centos.jpg",
+  "bg/ulf-reading.jpg",
+  "bg/ulf-view-01.jpg",
+  "bg/ulf-view-02.jpg",
+  "bg/ulf-view-03.jpg",
+  "bg/ulf-view-04.jpg",
+  "bg/ulf-view-05.jpg",
+  "bg/ulf-view-06.jpg",
+  "bg/ulf-with-toys.jpg"
+]
+BackgroundStyle = "#ffffff;"
 OpenLinksInNewWindow = true
 Favicon = "favicon.ico"
 
