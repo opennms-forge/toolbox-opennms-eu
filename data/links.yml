@@ -9,7 +9,25 @@ tiles:
   url: 'https://github.com/OpenNMS'
   img: 'logos/github.png'
   bg_color: '#ffffff'
-  tags: ['favorite', 'docs']
+  tags: ['favorite', 'tools']
+
+- name: 'Bamboo CI/CD'
+  url: 'https://bamboo.opennms.org'
+  img: 'logos/bamboo.png'
+  bg_color: '#ffffff'
+  tags: ['favorite', 'tools']
+
+- name: 'Issue Tracker'
+  url: 'https://issues.opennms.org'
+  img: 'logos/jira.png'
+  bg_color: '#ffffff'
+  tags: ['favorite', 'tools']
+
+- name: 'CircleCI'
+  url: 'https://circleci.com/gh/OpenNMS'
+  img: 'logos/circleci.png'
+  bg_color: '#ffffff'
+  tags: ['favorite', 'tools']
 
 - name: 'OpenNMS Chat'
   url: 'https://chat.opennms.org'
