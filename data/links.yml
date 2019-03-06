@@ -25,6 +25,12 @@ tiles:
   txt_color: '#1db954'
   tags: ['favorite', 'communication']
 
+- name: 'OpenNMS on DockerHub'
+  url: 'https://cloud.docker.com/u/opennms/repository/list'
+  img: 'logos/dockerhub.png'
+  bg_color: '#ffffff'
+  tags: ['favorite', 'tools']
+
 - name: 'Spotify Thread Analyzer'
   url: 'https://td.opennms.eu'
   bg_color: '#ffffff'
@@ -76,4 +82,4 @@ tiles:
 - name: 'OpenNMS Training'
   url: 'https://www.youtube.com/playlist?list=PLsXgBGH3nG7iZSlssmZB3xWsAJlst2j2z'
   img: 'logos/youtube.svg'
-  tags: ['docs']
+  tags: ['favorite', 'docs']
