@@ -5,21 +5,23 @@ tiles:
   bg_color: '#ffb900'
   tags: ['favorite', 'docs']
 
-- name: 'Wiki'
-  url: 'https://wiki.opennms.org'
+- name: 'OpenNMS on GitHub'
+  url: 'https://github.com/OpenNMS'
+  img: 'logos/github.png'
   bg_color: '#ffffff'
-  txt_color: '#ff9900'
   tags: ['favorite', 'docs']
 
-- name: 'Chat'
+- name: 'OpenNMS Chat'
   url: 'https://chat.opennms.org'
-  bg_color: '#191414'
+  img: 'logos/mattermost.png'
+  bg_color: '#ffffff'
   txt_color: '#1db954'
   tags: ['favorite', 'communication']
   
-- name: 'Discourse'
+- name: 'OpenNMS Discourse'
   url: 'https://opennms.discourse.group/'
-  bg_color: '#191414'
+  img: 'logos/discourse.png'
+  bg_color: '#ffffff'
   txt_color: '#1db954'
   tags: ['favorite', 'communication']
 
@@ -31,7 +33,8 @@ tiles:
 
 - name: 'fastThread Thread Analyzer'
   url: 'http://fastthread.io'
-  bg_color: '#ffffff'
+  img: 'logos/fast-thread.png'
+  bg_color: '#000000'
   txt_color: '#ff5722'
   tags: ['tools']
 
@@ -49,26 +52,28 @@ tiles:
 
 - name: 'Hastebin'
   url: 'https://hastebin.com'
-  bg_color: '#005483'
-  txt_color: '#ffffff'
+  img: 'logos/hastebin.png'
+  bg_color: '#001f26'
+  txt_color: '#000000'
   tags: ['tools', 'paste']
 
-- name: 'Hastebin OpenNMS EU'
+- name: 'Hastebin OpenNMS'
   url: 'https://paste.opennms.eu'
+  img: 'logos/paste-opennms.png'
   bg_color: '#005483'
-  txt_color: '#ffffff'
   tags: ['tools', 'paste']
 
-- name: 'https://paste.ee'
+- name: 'Paste.ee'
   url: 'https://paste.ee'
+  img: 'logos/paste.ee.png'
   tags: ['tools', 'paste']
 
 - name: 'Gist'
   url: 'https://gist.github.com'
+  img: 'logos/github-gist.png'
   tags: ['tools', 'paste']
 
-- name: 'OpenNMS 101 on YouTube'
+- name: 'OpenNMS Training'
   url: 'https://www.youtube.com/playlist?list=PLsXgBGH3nG7iZSlssmZB3xWsAJlst2j2z'
-  bg_color: '#ffffff'
-  txt_color: '#ff9900'
+  img: 'logos/youtube.svg'
   tags: ['docs']
