@@ -101,3 +101,14 @@ tiles:
   url: 'https://www.youtube.com/playlist?list=PLsXgBGH3nG7iZSlssmZB3xWsAJlst2j2z'
   img: 'logos/youtube.svg'
   tags: ['favorite', 'docs']
+
+- name: 'Debuggex'
+  url: 'https://www.debuggex.com/'
+  img: 'logos/debuggex.png'
+  tags: ['tools']
+
+- name: 'sins.com.au RRD Calculator'
+  url: 'http://www.sins.com.au/nmis/rrd_calc.xls'
+  bg_color: '#ffffff'
+  txt_color: '#ff5722'
+  tags: ['tools']
