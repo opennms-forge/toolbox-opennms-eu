@@ -105,6 +105,7 @@ tiles:
 - name: 'Debuggex'
   url: 'https://www.debuggex.com/'
   img: 'logos/debuggex.png'
+  bg_color: '#000000'
   tags: ['tools']
 
 - name: 'RRD Calculator Spreadsheet'
