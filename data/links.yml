@@ -107,7 +107,7 @@ tiles:
   img: 'logos/debuggex.png'
   tags: ['tools']
 
-- name: 'sins.com.au RRD Calculator'
+- name: 'RRD Calculator Spreadsheet'
   url: 'http://www.sins.com.au/nmis/rrd_calc.xls'
   bg_color: '#ffffff'
   txt_color: '#ff5722'
