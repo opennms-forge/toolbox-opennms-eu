@@ -113,3 +113,10 @@ tiles:
   bg_color: '#ffffff'
   txt_color: '#ff5722'
   tags: ['tools']
+
+- name: 'Explain Shell'
+  url: 'https://explainshell.com/'
+  img: 'logos/explainshell.png'
+  bg_color: '#ffffff'
+  tags: ['tools']
+
