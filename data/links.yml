@@ -17,8 +17,8 @@ tiles:
   bg_color: '#ffffff'
   tags: ['favorite', 'code']
 
-- name: 'OpenNMS Config Sample Repository'
-  url: 'https://github.com/opennms-config-modulesS'
+- name: 'OpenNMS Config Modules'
+  url: 'https://github.com/opennms-config-modules'
   img: 'logos/github.png'
   bg_color: '#ffffff'
   tags: ['favorite', 'code']
