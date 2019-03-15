@@ -9,25 +9,37 @@ tiles:
   url: 'https://github.com/OpenNMS'
   img: 'logos/github.png'
   bg_color: '#ffffff'
-  tags: ['favorite', 'tools']
+  tags: ['favorite', 'code']
+
+- name: 'OpenNMS Forge Repository'
+  url: 'https://github.com/OpenNMS-forge'
+  img: 'logos/github.png'
+  bg_color: '#ffffff'
+  tags: ['favorite', 'code']
+
+- name: 'OpenNMS Config Modules'
+  url: 'https://github.com/opennms-config-modules'
+  img: 'logos/github.png'
+  bg_color: '#ffffff'
+  tags: ['favorite', 'code']
 
 - name: 'Bamboo CI/CD'
   url: 'https://bamboo.opennms.org'
   img: 'logos/bamboo.png'
   bg_color: '#ffffff'
-  tags: ['favorite', 'tools']
+  tags: ['favorite', 'code', 'tools']
 
 - name: 'Issue Tracker'
   url: 'https://issues.opennms.org'
   img: 'logos/jira.png'
   bg_color: '#ffffff'
-  tags: ['favorite', 'tools']
+  tags: ['favorite', 'code', 'tools']
 
 - name: 'CircleCI'
   url: 'https://circleci.com/gh/OpenNMS'
   img: 'logos/circleci.png'
   bg_color: '#ffffff'
-  tags: ['favorite', 'tools']
+  tags: ['favorite', 'code', 'tools']
 
 - name: 'OpenNMS Chat'
   url: 'https://chat.opennms.org'
@@ -105,6 +117,11 @@ tiles:
 - name: 'Regex Debugger'
   url: 'https://www.debuggex.com/'
   img: 'logos/debuggex.png'
+  bg_color: '#000000'
+  tags: ['tools']
+
+- name: 'RegExr'
+  url: 'https://regexr.com/'
   bg_color: '#000000'
   tags: ['tools']
 
