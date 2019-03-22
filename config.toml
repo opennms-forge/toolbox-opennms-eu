@@ -47,3 +47,8 @@ icon = "comments"
 name = "Paste"
 tag = "paste"
 icon = "share"
+
+[[ params.nav ]]
+name = "Code"
+tag = "code"
+icon = "code"
