@@ -86,6 +86,12 @@ tiles:
   txt_color: '#ff5722'
   tags: ['tools']
 
+- name: 'Pastebin CentOS'
+  url: 'https://paste.centos.org/'
+  bg_color: '#001f26'
+  txt_color: '#000000'
+  tags: ['tools', 'paste']
+
 - name: 'Hastebin'
   url: 'https://hastebin.com'
   img: 'logos/hastebin.png'
