@@ -23,12 +23,6 @@ tiles:
   bg_color: '#ffffff'
   tags: ['favorite', 'code']
 
-- name: 'Bamboo CI/CD'
-  url: 'https://bamboo.opennms.org'
-  img: 'logos/bamboo.png'
-  bg_color: '#ffffff'
-  tags: ['favorite', 'code', 'tools']
-
 - name: 'Issue Tracker'
   url: 'https://issues.opennms.org'
   img: 'logos/jira.png'
