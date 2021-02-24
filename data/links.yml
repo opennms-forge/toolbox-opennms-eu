@@ -61,6 +61,12 @@ tiles:
   txt_color: '#ff5722'
   tags: ['tools']
 
+- name: 'RRD Calculator'
+  url: 'https://eccentric.one/misc/rrdcalc.html'
+  bg_color: '#ffffff'
+  txt_color: '#ff5722'
+  tags: ['tools']
+
 - name: 'fastThread Thread Analyzer'
   url: 'http://fastthread.io'
   img: 'logos/fast-thread.png'
