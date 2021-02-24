@@ -6,7 +6,7 @@ tiles:
   tags: ['favorite', 'docs']
 
 - name: 'OpenNMS on GitHub'
-  url: 'https://github.com/OpenNMS'
+  url: 'https://hub.docker.com/u/opennms'
   img: 'logos/github-onms.png'
   bg_color: '#ffffff'
   tags: ['favorite', 'code']
