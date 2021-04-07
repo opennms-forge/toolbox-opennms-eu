@@ -52,3 +52,18 @@ icon = "share"
 name = "Code"
 tag = "code"
 icon = "code"
+
+[[ params.nav ]]
+name = "Java"
+tag = "java"
+icon = "coffee"
+
+[[ params.nav ]]
+name = "RegEx"
+tag = "regex"
+icon = "font"
+
+[[ params.nav ]]
+name = "RRD"
+tag = "rrd"
+icon = "table"
