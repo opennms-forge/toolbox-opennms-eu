@@ -6,7 +6,7 @@ tiles:
   tags: ['favorite', 'docs']
 
 - name: 'OpenNMS on GitHub'
-  url: 'https://hub.docker.com/u/opennms'
+  url: 'https://github.com/OpenNMS'
   img: 'logos/github-onms.png'
   bg_color: '#ffffff'
   tags: ['favorite', 'code']
@@ -50,7 +50,7 @@ tiles:
   tags: ['favorite', 'communication']
 
 - name: 'OpenNMS on DockerHub'
-  url: 'https://cloud.docker.com/u/opennms/repository/list'
+  url: 'https://hub.docker.com/u/opennms'
   img: 'logos/dockerhub.png'
   bg_color: '#ffffff'
   tags: ['favorite', 'tools']
@@ -59,32 +59,26 @@ tiles:
   url: 'https://td.opennms.eu'
   bg_color: '#ffffff'
   txt_color: '#ff5722'
-  tags: ['tools']
-
-- name: 'RRD Calculator'
-  url: 'https://eccentric.one/misc/rrdcalc.html'
-  bg_color: '#ffffff'
-  txt_color: '#ff5722'
-  tags: ['tools']
+  tags: ['tools', 'java']
 
 - name: 'fastThread Thread Analyzer'
   url: 'http://fastthread.io'
   img: 'logos/fast-thread.png'
   bg_color: '#000000'
   txt_color: '#ff5722'
-  tags: ['tools']
+  tags: ['tools', 'java']
 
 - name: 'Java Diagnostic tool'
   url: 'https://alibaba.github.io/arthas/en/'
   bg_color: '#ffffff'
   txt_color: '#ff5722'
-  tags: ['tools']
+  tags: ['tools', 'java']
 
 - name: 'Swiss Java Knife (SJK)'
   url: 'https://github.com/aragozin/jvm-tools'
   bg_color: '#ffffff'
   txt_color: '#ff5722'
-  tags: ['tools']
+  tags: ['tools', 'java']
 
 - name: 'Pastebin CentOS'
   url: 'https://paste.centos.org/'
@@ -124,18 +118,24 @@ tiles:
   url: 'https://www.debuggex.com/'
   img: 'logos/debuggex.png'
   bg_color: '#000000'
-  tags: ['tools']
+  tags: ['tools', 'regex']
 
 - name: 'RegExr'
   url: 'https://regexr.com/'
   bg_color: '#000000'
-  tags: ['tools']
+  tags: ['tools', 'regex']
+
+- name: 'RRD Calculator'
+  url: 'https://eccentric.one/misc/rrdcalc.html'
+  bg_color: '#ffffff'
+  txt_color: '#ff5722'
+  tags: ['tools', 'rrd']
 
 - name: 'RRD Calculator Spreadsheet'
   url: 'http://www.sins.com.au/nmis/rrd_calc.xls'
   bg_color: '#ffffff'
   txt_color: '#ff5722'
-  tags: ['tools']
+  tags: ['tools', 'rrd']
 
 - name: 'Explain Shell'
   url: 'https://explainshell.com/'
