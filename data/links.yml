@@ -1,9 +1,15 @@
 tiles:
 - name: 'Documentation'
-  url: 'https://docs.opennms.org'
+  url: 'https://docs.opennms.com'
   txt_color: '#ffffff'
   bg_color: '#ffb900'
   tags: ['favorite', 'docs']
+
+- name: 'Archived Documentation'
+  url: 'https://vault.opennms.com/docs/'
+  txt_color: '#ffffff'
+  bg_color: '#ffb900'
+  tags: ['docs']
 
 - name: 'OpenNMS on GitHub'
   url: 'https://github.com/OpenNMS'
@@ -20,6 +26,12 @@ tiles:
 - name: 'OpenNMS Config Modules'
   url: 'https://github.com/opennms-config-modules'
   img: 'logos/github-config.png'
+  bg_color: '#ffffff'
+  tags: ['favorite', 'code']
+
+- name: 'Container Stacks'
+  url: 'https://github.com/opennms-forge/stack-play'
+  img: 'logos/github-forge.png'
   bg_color: '#ffffff'
   tags: ['favorite', 'code']
 
@@ -142,4 +154,3 @@ tiles:
   img: 'logos/explainshell.png'
   bg_color: '#ffffff'
   tags: ['tools']
-
