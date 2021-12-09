@@ -154,3 +154,9 @@ tiles:
   img: 'logos/explainshell.png'
   bg_color: '#ffffff'
   tags: ['tools']
+  
+- name: 'JSON Path Tester'
+  url: 'https://codebeautify.org/jsonpath-tester'
+  bg_color: '#ffffff'
+  tags: ['tools', 'json']
+ 
