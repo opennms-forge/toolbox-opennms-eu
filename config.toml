@@ -51,7 +51,7 @@ icon = "share"
 [[ params.nav ]]
 name = "Code"
 tag = "code"
-icon = "terminal"
+icon = "file-code"
 
 [[ params.nav ]]
 name = "Java"
@@ -71,7 +71,7 @@ icon = "table"
 [[ params.nav ]]
 name = "JSON"
 tag = "json"
-icon = "brackets-curly"
+icon = "stream"
 
 [[ params.nav ]]
 name = "XML"
