@@ -51,7 +51,7 @@ icon = "share"
 [[ params.nav ]]
 name = "Code"
 tag = "code"
-icon = "file-code"
+icon = "code-branch"
 
 [[ params.nav ]]
 name = "Java"
